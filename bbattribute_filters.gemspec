@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |spec|
   spec.name = 'bbattribute_filters'
-  spec.version = '2.0.0'
+  spec.version = '3.0.0'
   spec.authors = 'Stuart Farnaby, Big Bear Studios'
   spec.license = 'MIT'
-  spec.homepage = 'https://gitlab.com/big-bear-studios-open-source/bbattributefilters'
-  spec.summary = ''
+  spec.homepage = 'https://github.com/bigbearstudios/bbattribute_filters-ruby'
+  spec.summary = 'Deprecated'
 
   spec.required_ruby_version = '>= 2.5'
 
